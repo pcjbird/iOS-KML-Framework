@@ -7,7 +7,7 @@
 //
 
 #import "KMLElement.h"
-#import "TBXML.h"
+#import <TBXML/TBXML.h>
 
 @interface KMLElement ()
 
