@@ -18,4 +18,6 @@ Pod::Spec.new do |s|
 
   s.source_files = 'KML'
   s.ios.framework = 'UIKit'  
+
+  s.dependency 'TBXML'
 end
